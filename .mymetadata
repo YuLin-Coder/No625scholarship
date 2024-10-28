@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="scholarship"
+  id="myeclipse.1512016835368"
+  context-root="/scholarship"
+  j2ee-spec="5.0"
+  archive="scholarship.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
